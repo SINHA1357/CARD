@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: gray;
+    padding: 50px 70px;
+}
+
+.card {
+    background-color: rgb(244, 148, 246);
+    width: 250px;
+    height: 410px;
+    border-radius: 7px;
+}
+
+.image {
+    padding: 10px;
+}
+
+.image img {
+    border-radius: 7px;
+}
+
+.content {
+    padding: 30px 13px;
+}
+
+.content p {
+    font-size: 10px;
+}
+
+.content h2 {
+    font-size: 14px;
+    color: red;
+}
+
+.capsules {
+    padding: 0px 28px 0px 14px;
+}
+
+.capsules span {
+    font-size: 11px;
+    border: 1px solid rgb(97, 252, 231);
+    padding: 0px 6px;
+    border-radius: 30px;
+}
+
+.button{
+    text-align: center;
+}
+
+.button button{
+    padding: 8px 12px;
+    border-radius: 10px;
+    background-color: rgb(183, 232, 245);
+    color: blue;
+    font-size: 8px;
+    border: none;
+    font-weight: bold;
+}
